@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: bitirmeproj1
+Version: 0.1
+Summary: Video işleme araçları kütüphanesi
+Author: Adınız
+Author-email: email@example.com
+Keywords: video processing analysis segmentation
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Dist: opencv-python
+Requires-Dist: moviepy
